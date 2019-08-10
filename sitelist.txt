@@ -1,0 +1,12 @@
+netcraft.com   find subdomains
+shodan.com    server recon
+spokeo.com    people recon US based
+linkedin.com  professionals Recon
+google.com/finance Shares Info
+google.com/alerts  to get information updates
+google operators for advance search!!
+exploit-db.com/ghdb/    search dork (uses google operators to search)
+
+
+
+

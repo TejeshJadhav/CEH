@@ -1,0 +1,15 @@
+Microsoft
+
+microsoft.com
+
+https://en.wikipedia.org/wiki/Satya_Nadella
+https://en.wikipedia.org/wiki/Brad_Smith_(American_lawyer)
+https://en.wikipedia.org/wiki/John_W._Thompson
+
+shodan : Server: Microsoft-IIS/8.0
+	 X-Powered-By: ASP.NET
+
+Spokeo:
+
+LinkedIn:
+
