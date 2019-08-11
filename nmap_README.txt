@@ -14,6 +14,34 @@ ack flag probe scanning:  if network has firewall...it will not allow the ack pa
 upd scan: if udp port 29 is open the no reply...if port is closed the ICMP port unreachable response nmap -sU -v -p 29 192.168.151.123
 ---------------------------------------
 
-**************
+*******Scanning beyond IDS*******
+fragment to avoid IDS : nmap -sS -T4 -A -f -v 192.168.151.133  fragment the packets into small pieces so that the IDS cant understand the packet
+----------------------
 
+******Banner Scan****************
+ID Serve for scanning the server's information.
 
+counter-measure to change the banner information. 
+turn off the server banner signature. 
+hiding the page extension.
+---------
+
+*******MBSA**********
+microsoft baseline security analyzer.
+--------------------
+
+**********NETWORK Diagram**********
+lan state : draws a network diagram
+----------------------------------
+
+******Anonymizers******
+tor : uses chain porxy 
+cyber ghost: chain proxy
+anonymizer: 
+gzapper: identify google tracking id
+--------------------
+
+******Spoofing IP Address*******
+nmap -S 192.165.0.174 -A -v 192.168.151.401   -S is for spoofed IP Address
+
+counter-meausure: check network log.
